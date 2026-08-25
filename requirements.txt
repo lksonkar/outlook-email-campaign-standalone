@@ -1,4 +1,4 @@
-rich==0.13.7
+rich==13.7.0
 requests==2.31.0
 beautifulsoup4==4.12.2
 urllib3==2.1.0
