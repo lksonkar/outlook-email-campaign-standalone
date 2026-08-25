@@ -1,0 +1,6 @@
+rich==0.13.7
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==2.1.0
+certifi==2023.7.22
+python-dotenv==1.0.0
